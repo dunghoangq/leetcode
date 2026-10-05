@@ -13,6 +13,7 @@
 | [219_contains_duplicate_ii](array/219_contains_duplicate_ii) | <font color='seagreen'>EASY</font> |
 | [228_summary_ranges](array/228_summary_ranges) | <font color='seagreen'>EASY</font> |
 | [283_move_zeroes](array/283_move_zeroes) | <font color='seagreen'>EASY</font> |
+| [303_range_sum_query_immutable](array/303_range_sum_query_immutable) | <font color='seagreen'>EASY</font> |
 
 ## bfs
 
